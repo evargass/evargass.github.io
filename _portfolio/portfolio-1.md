@@ -1,5 +1,5 @@
 ---
-title: "Deficidiendo por un Futuro Mejor (DFM)"
+title: "Decidiendo por un Futuro Mejor (DFM)"
 excerpt: "A large scale policy pilot that aim to reduce drop-out rates in Peru by providing families with information about the returns of compliting basic education."
 collection: portfolio
 ---
