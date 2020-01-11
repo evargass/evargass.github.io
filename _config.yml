@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Benjamin Neilson Ruiz"
+title                    : "Eduardo Vargas Sanchez"
 title_separator          : "-"
-name                     : &name "Benjamin Neilson Ruiz"
+name                     : &name "Eduardo Vargas Sanchez"
 description              : &description "personal description"
-url                      : https://weevef.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://evargass.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "weevef/weevef.github.io"
+repository               : "https://github.com/evargass"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Benjamin Neilson Ruiz"
-  avatar           : "benjaPic.jpg"
-  bio              : "Senior at [Cambridge Rindge and Latin](https://crls.cpsd.us/). Junior data science intern at [ConsiliumBots](www.consiliumbots.com)"
-  location         : "Cambridge, MA"
+  name             : "Eduardo Vargas Sanchez"
+  avatar           : "photo_evs.jpg"
+  bio              : "I am an Economist working in the intersection between research and public policy. Currently I am the Policy and Research Manager of the [Abdul Latif Jameel Poverty Action Lab](https://www.povertyactionlab.org/LAC) in the Dominican Republic. In the last years, I led and collaborated with local governments from Peru, the Dominican Republic, Chile, and the United States to implement and evaluate several programs to improve families’ education investments and enhance the efficiency of education markets. I recieved my BS from the [Pontificia Universidad Catolica del Peru](https://www.pucp.edu.pe/en/) and I am an alumnus of the Program on Leadership, Liberal Arts and Public Service of Brown University and the Botin Foundation, and a Policy partner of [ConsiliumBots](www.consiliumbots.com)"
+  location         : "Santo Domingo, Dominican Republic"
   # employer         :
   # pubmed           : ""
   # googlescholar    : ""
-  email            : "benjamin.a.neilson@gmail.com"
+  email            : "ce.vargass@gmail.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   # bitbucket        :
@@ -96,10 +96,10 @@ author:
   # flickr           :
   # facebook         :
   # foursquare       :
-  github           : "weevef"
+  github           : "evargass"
   # google_plus      :
   # keybase          :
-  instagram        : "benjamin_neilson"
+  # instagram        : 
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   # lastfm           :
   linkedin         :
@@ -109,7 +109,7 @@ author:
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
   # steam            :
   # tumblr           :
-  # twitter          :
+  twitter          : "https://twitter.com/eduardovars"
   # vine             :
   # weibo            :
   # xing             :
