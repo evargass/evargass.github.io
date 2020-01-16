@@ -1,8 +1,8 @@
 ---
 title: "Inequalities in the Appropriation of Digital Spaces in Metropolitan Areas of Latin America"
 collection: publications
-permalink: /publications/2017-06-06-inequalities_tics_appropriation.md
-excerpt: 'excerpt: 'This study discusses the role of information and communication technologies (ICTs), especially the Internet, in three Latin American capitals in people’s ability to attain the lifestyle they value and how inequalities in this ability or “information richness” can be explained by sociodemographic characteristics that do not depend on the individual’s decisions.'
+permalink: /publications/2017-06-06-inequalities_tics_appropriation
+excerpt: 'This study discusses the role of information and communication technologies (ICTs), especially the Internet, in three Latin American capitals in people’s ability to attain the lifestyle they value and how inequalities in this ability can be explained by sociodemographic characteristics that do not depend on the individual’s decisions.'
 date: 2017-06-06
 venue: 'Catalyzing Development through ICT Adoption. Springer, Cham'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-56523-1_11#citeas'
