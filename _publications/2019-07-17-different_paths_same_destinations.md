@@ -1,7 +1,7 @@
 ---
 title: "Different paths and same destinations? An analysis of the convergence in Internet usage patterns between different age groups"
 collection: publications
-permalink: /publication/different_paths_same_destinations.md
+permalink: /publication/2019-07-17-different_paths_same_destinations
 excerpt: 'The present article delves into the understanding of the digital gap that divides the younger and older populations in Latin American cities, and the convergence in their Internet usage patterns.'
 date: 2019-07-17
 venue: 'The Electronic Journal of Information Systems in Developing Countries'
