@@ -1,0 +1,15 @@
+---
+title: "Policy brief: Learning the value of Education in the Dominican Republic"
+collection: publications
+permalink: /publications/2018-12-01-ave_policy_brief
+excerpt: 'Learning the value of Education (AVE) is a large scale policy pilot implemented in the Dominican Republic from 2014 to 2016. The initiative consisted of delivering students information about the economic and social returns of education to reduce school drop-out rates. After being evaluated, the program has been scaled up in all the country.'
+date: 2015-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Instituto Dominicano de Evaluacin e Investigacin de la Calidad Educativa (2018). &quot; Policy brief: Learning the value of Education in the Dominican Republic Number 10.&quot; <i> USEPE reports </i>.'
+---
+Learning the value of Education (AVE) is a large scale policy pilot implemented in the Dominican Republic from 2014 to 2016. The initiative consisted of delivering students information about the economic and social returns of education to reduce school drop-out rates. This policy brief describes the results of the experimental evaluation and documents the implementation process. In this way, it sheds light on how researchers and policy makers can collaborate to innovate, evaluate, and learn within the implementation of public policy.
+
+[Download paper here](www.ideice.gob.do/documentacion/informes-usepe.html-p1 88)
+
+Recommended citation: Instituto Dominicano de Evaluacin e Investigacin de la Calidad Educativa (2015). "Policy brief: Learning the value of Education in the Dominican Republic Number 10." <i> USEPE reports </i>.
